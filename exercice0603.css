@@ -1,0 +1,23 @@
+img {
+    width: 100px;
+    height: 80px;
+    border-radius: 10%;
+}
+
+a {
+    text-decoration:none;
+}
+
+nav{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items:center;
+    background-color: red;
+    padding-left: 35px;
+    padding-right: 35px;
+}
+.button{
+    display: flex;
+
+}
